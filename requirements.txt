@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+vaderSentiment
+streamlit
+# optional, only for transformer_baseline.py
+transformers
+torch

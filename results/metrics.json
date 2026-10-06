@@ -1,0 +1,10 @@
+{
+  "TF-IDF + Logistic Regression": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  },
+  "TF-IDF + Linear SVM": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0
+  }
+}
